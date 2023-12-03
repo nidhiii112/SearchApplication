@@ -7,7 +7,7 @@ android {
     compileSdk 32
  
     defaultConfig {
-        applicationId "com.nidhi.searchapplication"
+        applicationId "com.nidhi.searchapplication" 
         minSdk 23
         targetSdk 32
         versionCode 1 
